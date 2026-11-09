@@ -1,0 +1,19 @@
+{
+  "name": "neural-trade",
+  "productName": "NEURAL TRADE",
+  "version": "1.0.0",
+  "description": "AI 加密货币智能分析桌面终端（BTC / ETH）——决策辅助，不自动交易",
+  "main": "./out/main/index.js",
+  "author": "NEURAL TRADE",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@fontsource/jetbrains-mono": "^5.2.5",
+    "fast-xml-parser": "^4.5.3",
+    "https-proxy-agent": "^7.0.6",
+    "socks-proxy-agent": "^8.0.5",
+    "sql.js": "^1.13.0",
+    "ws": "^8.18.2",
+    "zod": "^3.25.67"
+  }
+}
